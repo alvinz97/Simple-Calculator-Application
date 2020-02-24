@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simple Calculator</string>
+    <string name="header">Simple Calculator</string>
+    <string name="addBtn">Add</string>
 </resources>
